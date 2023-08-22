@@ -1,0 +1,40 @@
+.navbar .dropdown-menu {
+    width: 100%;
+    left: 0;
+    right: 0;
+  }
+  
+  .feature-box {
+    background-color: gray;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    color: black;
+  }
+  
+  .feature-box h3, .feature-box p {
+    color: black;
+    font-weight: bold;
+  }
+  
+  .back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: gray;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: none; 
+    cursor: pointer;
+    z-index: 1000;
+  }
+
+  .back-to-top a {
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .back-to-top :hover{
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  }
