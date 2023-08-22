@@ -1,0 +1,18 @@
+.navbar .dropdown-menu {
+    width: 100%;
+    left: 0;
+    right: 0;
+  }
+  
+  .feature-box {
+    background-color: gray;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    color: black;
+  }
+  
+  .feature-box h3, .feature-box p {
+    color: black;
+    font-weight: bold;
+  }
